@@ -11,7 +11,7 @@ hero:
       link: /javascript/base/prototype
     - theme: alt
       text: 面试
-      link: /api-examples
+      link: /javascript/base/prototype
 
 features:
   - title: 前端
